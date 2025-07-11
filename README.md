@@ -1,12 +1,28 @@
-# React + Vite
+# 📆 TrackIt - Sistema de Rastreamento de Hábitos Diários
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição  
+Este projeto é um sistema completo de rastreamento de hábitos, permitindo que os usuários:
 
-Currently, two official plugins are available:
+- Cadastrem seus hábitos diários.
+- Marquem hábitos como concluídos ao longo do dia.
+- Visualizem o progresso diário com feedback visual.
+- Acompanhem os hábitos planejados e finalizados por meio de uma interface clara e responsiva.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A aplicação foi desenvolvida com foco em dispositivos móveis (**mobile-first**) e integra-se com uma API externa para persistência e atualização em tempo real dos dados dos hábitos.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔗 Acesse o Projeto  
+Você pode interagir com a aplicação deployada aqui:
+
+👉 [https://projeto-track-it-seven.vercel.app/](https://projeto-track-it-seven.vercel.app/)
+
+---
+
+## 🛠️ Tecnologias Usadas
+- **React**: Para a construção da interface do usuário.  
+- **Styled-Components**: Para estilização dos componentes.  
+- **React Router DOM**: Para gerenciamento de rotas.  
+- **Axios**: Para comunicação com a API.  
+- **Vite**: Ferramenta de build para desenvolvimento mais rápido.  
+- **Vercel**: Utilizado para o deploy da aplicação.
