@@ -1,5 +1,6 @@
 # 📆 TrackIt - Sistema de Rastreamento de Hábitos Diários
 
+
 ## Descrição  
 Este projeto é um sistema completo de rastreamento de hábitos, permitindo que os usuários:
 
@@ -10,14 +11,10 @@ Este projeto é um sistema completo de rastreamento de hábitos, permitindo que 
 
 A aplicação foi desenvolvida com foco em dispositivos móveis (**mobile-first**) e integra-se com uma API externa para persistência e atualização em tempo real dos dados dos hábitos.
 
----
-
 ## 🔗 Acesse o Projeto  
 Você pode interagir com a aplicação deployada aqui:
 
 👉 [https://projeto-track-it-seven.vercel.app/](https://projeto-track-it-seven.vercel.app/)
-
----
 
 ## 🛠️ Tecnologias Usadas
 - **React**: Para a construção da interface do usuário.  
